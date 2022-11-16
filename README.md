@@ -53,7 +53,6 @@
 ## <p align="center">🔎 Find me on 🔍</p>
   
 <p align="center">
-  <a href="https://github.com/ouwargui" target="_blank"><img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="My Github Profile Link"></a> 
   <a href="https://www.linkedin.com/in/guiksantos/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="My Linkedin Profile Link"></a>
-  <!-- RESUME -->
+  <a href="https://ouwargui.github.io/ouwargui/" target="_blank"><img src="https://img.shields.io/badge/Resume-00A98F?style=for-the-badge&logo=About.me&logoColor=white&labelColor=00A98F" alt="My Resume Page"></a>
 </p>
