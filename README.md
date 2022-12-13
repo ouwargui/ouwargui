@@ -11,7 +11,7 @@
 
 <div align="left"> 
 <h3> Here are some things about me: <h3>
-<p>&nbsp;🙎🏻‍♂️ I'm 21 years old living in Brazil 🇧🇷.</p>
+<p>&nbsp;🙎🏻‍♂️ I'm 21 years old living in Brazil.</p>
 <p>&nbsp;👨🏻‍💻 I'm a software engineer at IBM for 3 years now.</p>
 <p>&nbsp;🎓 I have a degree in Computer Science.</p>
 <p>&nbsp;🎧 I love playing games while listening to hip hop music.</p>
