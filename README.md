@@ -1,4 +1,4 @@
-Software Engineer at IBM
+Frontend Software Engineer at Rocket Lawyer
 
 I like React Native and Typescript
 
