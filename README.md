@@ -1,4 +1,4 @@
-Frontend Software Engineer at Rocket Lawyer
+Software Engineer at Rocket Lawyer
 
 I like React and Typescript
 
